@@ -42,8 +42,6 @@
 
 <h1 align="center">📊 GitHub Stats:</h1>
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=codebyderkaoui&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="Stats Card" />
-  <br><br>
   <img src="https://streak-stats.demolab.com/?user=codebyderkaoui&theme=radical&hide_border=false" alt="Streak Stats" />
   <br><br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=codebyderkaoui&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
@@ -54,3 +52,12 @@
     <img src="https://komarev.com/ghpvc/?username=codebyderkaoui&color=ff79c6" alt="Visitor Count" />
   </a>
 </p>
+
+<br><br>
+
+<h1 align="center">My Music Taste if u care:</h1>
+
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=3162nbsuapqvgkugkwfapeagnxmi">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=3162nbsuapqvgkugkwfapeagnxmi" alt="Data Card for Spotify">
+</a>
